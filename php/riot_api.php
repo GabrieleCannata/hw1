@@ -1,7 +1,7 @@
 <?php
     $riot_name = $_GET['riot_name'];
     $riot_tag = $_GET['riot_tag'];
-    $token = "RGAPI-c47406eb-82cd-49dd-b41f-4c653d0c7e8b";
+    $token = "RGAPI-97919b59-7e8f-4a45-9f7d-4996b599b53b";
     $url = "https://europe.api.riotgames.com/riot/account/v1/accounts/by-riot-id/".$riot_name."/".$riot_tag;
     $curl = curl_init();
     curl_setopt($curl, CURLOPT_URL, $url);
