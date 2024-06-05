@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TFTactics</title>
+    <link rel="stylesheet" href="../css/body_navbar.css" type="text/css">
+    <link rel="stylesheet" href="../css/style_team_builder.css" type="text/css">
+    <link rel="stylesheet" href="../css/footer.css" type="text/css">
+    <script src="../js/team_builder.js" defer></script>
+    <script src="../js/index.js" defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Encode+Sans:wght@100..900&display=swap');
+    </style>
+</head>
+<body>
+    <article>
+        <nav id="upperbar">
+            <div id="logo">
+                <img id="logo" src="../images/index_images/web_icon.jpeg"/>
+                <span id="slogo">TFTactics</span>
+            </div>
+            <div class="searchbar">
+
+                <div id="album-div"><form id="album">
+                    <input id = "album-bar" class="searchbar" placeholder="Search an album">
+                    <img src="https://rerollcdn.com/search-icon.svg" class="search-icon">
+                </form></div>
+
+                <div id="player-div"><form id="player" method="GET" action="../php/team_builder.php">
+                    <input id = "player-search-bar" class="searchbar" placeholder="Search a player: gamename#tag">
+                    <img src="https://rerollcdn.com/search-icon.svg" class="search-icon">
+                </form></div>
+
+            </div>  
+            <div id="logout"><a href="../php/logout.php">Log out</a></div>
+            <div id="profile"><img src="../images/Team_builder_images/default_avatar.png" id="propic"><a href="../php/profile.php">La mia pagina</a></div>
+            <div id="navbar-btn"><img src="https://rerollcdn.com/Qwiki/UI/windows-icon.svg" id="btn-icon">Download TFTactics</div>
+            <div id="hamburger-box">
+                <div class="hamburger"></div>
+                <div class="hamburger"></div>
+                <div class="hamburger"></div>
+            </div>
+
+            <div id="hamburger-box-x" class="hidden">
+                <div id="x1" class="hamburger"></div>
+                <div id="x2" class="hamburger"></div>
+            </div>
+        </nav>
+        <nav id="navbar">
+            <ul>
+            <li><a href="./team_builder.html" class="navBarSpan">Team Builder</a></li>
+            </ul>
+        </nav>
+
+        <section id="album-view">
+
+        </section>
+        
+        <section id="modal-user" class="hidden">
+            <div id="summoner-profile"></div>
+            <div id="summoner-name-tag"></div>
+        </section>
+
+        <section>
+            <div class="row">
+                <div class="container">
+                    <div id="mobile-menu" class="hidden">
+                        <h2 id="mobile-nav">Navigation</h2>
+                        <ul>
+                            <li class="mobile-link"><a href="./team_builder.html">Team Builder</a></li>
+                        </ul>
+                    </div>
+
+                    <div id="tft-live"><h2>Set 11 update is live on TFTactics!</h2></div>
+                    <header>
+                        <h1>TFT Team Builder</h1>
+                        <div id="buttons">
+                            <div id="save">Save composition</div>
+                            <div id="clear">Clear Team</div>
+                        </div>
+                        <div class="divider"></div>
+                    </header>
+                    <div id="board-container">
+                        <div id="board">
+                            <div id="traits-list" class="empty-list side-bar">No active synergies</div>
+            
+                            <div id="board-builder">
+                                <div id="four-row"></div>
+
+                                <div id="item-container">
+                                    <div class="characters-list-wrapper"></div>
+                                </div>
+                                
+                                <div id="champions-container">
+                                    <div class="searchbar">
+                                        <img src="https://rerollcdn.com/search-icon.svg" class="search-icon">
+                                        <form name="ricerca_campione">
+                                            <input class="searchbar" id="champion-searchbar" name="champion-searchbar" placeholder="Search by name, trait or cost">
+                                        </form>
+                                        <div class="champ-search">A-z</div>
+                                        <div class="champ-search"><img class="gold" src="https://rerollcdn.com/ui/icon-gold.svg"></div>
+                                    </div>
+                                    
+                                    <div class="characters-list-wrapper"></div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+        </section>
+
+        <footer>
+            <div class="container">
+                <div id="foot">
+                    <a href="" class="footer-Span">Privacy Policy</a>
+                    <a href="" class="footer-Span">Contact</a>
+                    <a href="" class="footer-Span">Manage Cookie Settings</a>
+                </div>
+            </div>
+        </footer>
+    </article>
+
+</body>
+</html>
