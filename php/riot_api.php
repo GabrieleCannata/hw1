@@ -1,6 +1,7 @@
 <?php
     $riot_name = $_GET['riot_name'];
     $riot_tag = $_GET['riot_tag'];
+    //il token scade ogni giorno e non lo si può richiedere tramite una api, deve essere copiato manualmente 
     $token = "RGAPI-97919b59-7e8f-4a45-9f7d-4996b599b53b";
     $url = "https://europe.api.riotgames.com/riot/account/v1/accounts/by-riot-id/".$riot_name."/".$riot_tag;
     $curl = curl_init();
