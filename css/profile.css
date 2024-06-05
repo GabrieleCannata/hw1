@@ -1,0 +1,73 @@
+#compositions-container{
+    display: flex;
+    flex-direction: row;
+    flex-grow: 0;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    min-height: 71vh;
+}
+
+.comp-container{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    border: 3px solid #17313a;
+    margin: 0 10px;
+}
+
+.comp-img-container{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.comp-img-container .comp-img{
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.comp-container .comp-name{
+    display: flex;
+    position: absolute;
+    bottom: 20%;
+    padding: 5px;
+    color: #ffffff;
+    font-family: "Encode Sans", sans-serif;
+    font-size: 20px;
+}
+
+.comp-container .trash-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.trash{
+    cursor: pointer;
+    position: absolute;
+    bottom: 10px;
+    background-image: url("../images/trash.ico");
+    background-size: auto 30px;
+    width: 30px;
+    height: 30px;
+}
+
+#modal-four-row{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 99vh;
+    width: 99vw;
+    background-color: rgba(0, 10, 0, 0.7);
+    z-index: 2;
+    justify-content: center;
+    align-items: center;
+}
