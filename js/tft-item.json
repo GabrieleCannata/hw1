@@ -1,0 +1,1371 @@
+{
+    "type": "tft-item",
+    "version": "13.24.1",
+    "data": {
+      "TFT_Item_Bloodthirster": {
+        "id": "TFT_Item_Bloodthirster",
+        "name": "Bloodthirster",
+        "image": {
+          "full": "TFT_Item_Bloodthirster.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 96,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_BrambleVest": {
+        "id": "TFT_Item_BrambleVest",
+        "name": "Bramble Vest",
+        "image": {
+          "full": "TFT_Item_BrambleVest.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 144,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_Deathblade": {
+        "id": "TFT_Item_Deathblade",
+        "name": "Deathblade",
+        "image": {
+          "full": "TFT_Item_Deathblade.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 288,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_DragonsClaw": {
+        "id": "TFT_Item_DragonsClaw",
+        "name": "Dragon's Claw",
+        "image": {
+          "full": "TFT_Item_DragonsClaw.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 336,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_ForceOfNature": {
+        "id": "TFT_Item_ForceOfNature",
+        "name": "Tactician's Crown",
+        "image": {
+          "full": "TFT_Item_ForceOfNature.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 432,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_ThiefsGloves": {
+        "id": "TFT_Item_ThiefsGloves",
+        "name": "Thief's Gloves",
+        "image": {
+          "full": "TFT_Item_ThiefsGloves.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 0,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_Shroud": {
+        "id": "TFT_Item_Shroud",
+        "name": "Shroud of Stillness",
+        "image": {
+          "full": "TFT_Item_Shroud.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 96,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_FrozenHeart": {
+        "id": "TFT_Item_FrozenHeart",
+        "name": "Protector's Vow",
+        "image": {
+          "full": "TFT_Item_FrozenHeart.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 144,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_MadredsBloodrazor": {
+        "id": "TFT_Item_MadredsBloodrazor",
+        "name": "Giant Slayer",
+        "image": {
+          "full": "TFT_Item_MadredsBloodrazor.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 240,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_GuardianAngel": {
+        "id": "TFT_Item_GuardianAngel",
+        "name": "Edge of Night",
+        "image": {
+          "full": "TFT_Item_GuardianAngel.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 288,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_GuinsoosRageblade": {
+        "id": "TFT_Item_GuinsoosRageblade",
+        "name": "Guinsoo's Rageblade",
+        "image": {
+          "full": "TFT_Item_GuinsoosRageblade.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 336,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_UnstableConcoction": {
+        "id": "TFT_Item_UnstableConcoction",
+        "name": "Hand Of Justice",
+        "image": {
+          "full": "TFT_Item_UnstableConcoction.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 384,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_HextechGunblade": {
+        "id": "TFT_Item_HextechGunblade",
+        "name": "Hextech Gunblade",
+        "image": {
+          "full": "TFT_Item_HextechGunblade.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 432,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_Chalice": {
+        "id": "TFT_Item_Chalice",
+        "name": "Chalice of Power",
+        "image": {
+          "full": "TFT_Item_Chalice.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 0,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_InfinityEdge": {
+        "id": "TFT_Item_InfinityEdge",
+        "name": "Infinity Edge",
+        "image": {
+          "full": "TFT_Item_InfinityEdge.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 48,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_IonicSpark": {
+        "id": "TFT_Item_IonicSpark",
+        "name": "Ionic Spark",
+        "image": {
+          "full": "TFT_Item_IonicSpark.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 96,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_JeweledGauntlet": {
+        "id": "TFT_Item_JeweledGauntlet",
+        "name": "Jeweled Gauntlet",
+        "image": {
+          "full": "TFT_Item_JeweledGauntlet.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 144,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_LastWhisper": {
+        "id": "TFT_Item_LastWhisper",
+        "name": "Last Whisper",
+        "image": {
+          "full": "TFT_Item_LastWhisper.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 192,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_LocketOfTheIronSolari": {
+        "id": "TFT_Item_LocketOfTheIronSolari",
+        "name": "Locket of the Iron Solari",
+        "image": {
+          "full": "TFT_Item_LocketOfTheIronSolari.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 240,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_ArchangelsStaff": {
+        "id": "TFT_Item_ArchangelsStaff",
+        "name": "Archangel's Staff",
+        "image": {
+          "full": "TFT_Item_ArchangelsStaff.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 288,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_Quicksilver": {
+        "id": "TFT_Item_Quicksilver",
+        "name": "Quicksilver",
+        "image": {
+          "full": "TFT_Item_Quicksilver.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 384,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_Morellonomicon": {
+        "id": "TFT_Item_Morellonomicon",
+        "name": "Morellonomicon",
+        "image": {
+          "full": "TFT_Item_Morellonomicon.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 432,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_PowerGauntlet": {
+        "id": "TFT_Item_PowerGauntlet",
+        "name": "Guardbreaker",
+        "image": {
+          "full": "TFT_Item_PowerGauntlet.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 96,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_RabadonsDeathcap": {
+        "id": "TFT_Item_RabadonsDeathcap",
+        "name": "Rabadon's Deathcap",
+        "image": {
+          "full": "TFT_Item_RabadonsDeathcap.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 144,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_RapidFireCannon": {
+        "id": "TFT_Item_RapidFireCannon",
+        "name": "Red Buff",
+        "image": {
+          "full": "TFT_Item_RapidFireCannon.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 192,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_RedBuff": {
+        "id": "TFT_Item_RedBuff",
+        "name": "Sunfire Cape",
+        "image": {
+          "full": "TFT_Item_RedBuff.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 288,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_Redemption": {
+        "id": "TFT_Item_Redemption",
+        "name": "Redemption",
+        "image": {
+          "full": "TFT_Item_Redemption.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 336,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_RunaansHurricane": {
+        "id": "TFT_Item_RunaansHurricane",
+        "name": "Runaan's Hurricane",
+        "image": {
+          "full": "TFT_Item_RunaansHurricane.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 384,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_SpearOfShojin": {
+        "id": "TFT_Item_SpearOfShojin",
+        "name": "Spear of Shojin",
+        "image": {
+          "full": "TFT_Item_SpearOfShojin.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 432,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_StatikkShiv": {
+        "id": "TFT_Item_StatikkShiv",
+        "name": "Statikk Shiv",
+        "image": {
+          "full": "TFT_Item_StatikkShiv.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 0,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_GargoyleStoneplate": {
+        "id": "TFT_Item_GargoyleStoneplate",
+        "name": "Gargoyle Stoneplate",
+        "image": {
+          "full": "TFT_Item_GargoyleStoneplate.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 48,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_TitanicHydra": {
+        "id": "TFT_Item_TitanicHydra",
+        "name": "Zz'Rot Portal",
+        "image": {
+          "full": "TFT_Item_TitanicHydra.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 144,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_TitansResolve": {
+        "id": "TFT_Item_TitansResolve",
+        "name": "Titan's Resolve",
+        "image": {
+          "full": "TFT_Item_TitansResolve.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 192,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_WarmogsArmor": {
+        "id": "TFT_Item_WarmogsArmor",
+        "name": "Warmog's Armor",
+        "image": {
+          "full": "TFT_Item_WarmogsArmor.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 240,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_ZekesHerald": {
+        "id": "TFT_Item_ZekesHerald",
+        "name": "Zeke's Herald",
+        "image": {
+          "full": "TFT_Item_ZekesHerald.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 288,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_Zephyr": {
+        "id": "TFT_Item_Zephyr",
+        "name": "Zephyr",
+        "image": {
+          "full": "TFT_Item_Zephyr.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 336,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT4_Item_OrnnAnimaVisage": {
+        "id": "TFT4_Item_OrnnAnimaVisage",
+        "name": "Anima Visage",
+        "image": {
+          "full": "TFT4_Item_OrnnAnimaVisage.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 96,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT4_Item_OrnnDeathsDefiance": {
+        "id": "TFT4_Item_OrnnDeathsDefiance",
+        "name": "Death's Defiance",
+        "image": {
+          "full": "TFT4_Item_OrnnDeathsDefiance.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 144,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT4_Item_OrnnEternalWinter": {
+        "id": "TFT4_Item_OrnnEternalWinter",
+        "name": "Eternal Winter",
+        "image": {
+          "full": "TFT4_Item_OrnnEternalWinter.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 192,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT4_Item_OrnnTheCollector": {
+        "id": "TFT4_Item_OrnnTheCollector",
+        "name": "Gold Collector",
+        "image": {
+          "full": "TFT4_Item_OrnnTheCollector.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 240,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT4_Item_OrnnInfinityForce": {
+        "id": "TFT4_Item_OrnnInfinityForce",
+        "name": "Infinity Force",
+        "image": {
+          "full": "TFT4_Item_OrnnInfinityForce.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 288,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT4_Item_OrnnMuramana": {
+        "id": "TFT4_Item_OrnnMuramana",
+        "name": "Manazane",
+        "image": {
+          "full": "TFT4_Item_OrnnMuramana.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 336,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT4_Item_OrnnObsidianCleaver": {
+        "id": "TFT4_Item_OrnnObsidianCleaver",
+        "name": "Obsidian Cleaver",
+        "image": {
+          "full": "TFT4_Item_OrnnObsidianCleaver.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 384,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT4_Item_OrnnRanduinsSanctum": {
+        "id": "TFT4_Item_OrnnRanduinsSanctum",
+        "name": "Randuin's Omen",
+        "image": {
+          "full": "TFT4_Item_OrnnRanduinsSanctum.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 432,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT4_Item_OrnnZhonyasParadox": {
+        "id": "TFT4_Item_OrnnZhonyasParadox",
+        "name": "Zhonya's Paradox",
+        "image": {
+          "full": "TFT4_Item_OrnnZhonyasParadox.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 0,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_TrapClawRadiant": {
+        "id": "TFT5_Item_TrapClawRadiant",
+        "name": "Willbreaker",
+        "image": {
+          "full": "TFT5_Item_TrapClawRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 48,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_BloodthirsterRadiant": {
+        "id": "TFT5_Item_BloodthirsterRadiant",
+        "name": "Blessed Bloodthirster",
+        "image": {
+          "full": "TFT5_Item_BloodthirsterRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 96,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_IonicSparkRadiant": {
+        "id": "TFT5_Item_IonicSparkRadiant",
+        "name": "Covalent Spark",
+        "image": {
+          "full": "TFT5_Item_IonicSparkRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 144,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_GiantSlayerRadiant": {
+        "id": "TFT5_Item_GiantSlayerRadiant",
+        "name": "Demonslayer",
+        "image": {
+          "full": "TFT5_Item_GiantSlayerRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 192,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_DragonsClawRadiant": {
+        "id": "TFT5_Item_DragonsClawRadiant",
+        "name": "Dragon's Will",
+        "image": {
+          "full": "TFT5_Item_DragonsClawRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 240,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_GargoyleStoneplateRadiant": {
+        "id": "TFT5_Item_GargoyleStoneplateRadiant",
+        "name": "Dvarapala Stoneplate",
+        "image": {
+          "full": "TFT5_Item_GargoyleStoneplateRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 288,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_LastWhisperRadiant": {
+        "id": "TFT5_Item_LastWhisperRadiant",
+        "name": "Eternal Whisper",
+        "image": {
+          "full": "TFT5_Item_LastWhisperRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 336,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_HandOfJusticeRadiant": {
+        "id": "TFT5_Item_HandOfJusticeRadiant",
+        "name": "Fist of Fairness",
+        "image": {
+          "full": "TFT5_Item_HandOfJusticeRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 384,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_FrozenHeartRadiant": {
+        "id": "TFT5_Item_FrozenHeartRadiant",
+        "name": "Bulwark's Oath",
+        "image": {
+          "full": "TFT5_Item_FrozenHeartRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 432,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_JeweledGauntletRadiant": {
+        "id": "TFT5_Item_JeweledGauntletRadiant",
+        "name": "Glamorous Gauntlet",
+        "image": {
+          "full": "TFT5_Item_JeweledGauntletRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 0,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_GuardianAngelRadiant": {
+        "id": "TFT5_Item_GuardianAngelRadiant",
+        "name": "Brink of Dawn",
+        "image": {
+          "full": "TFT5_Item_GuardianAngelRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 48,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_GuinsoosRagebladeRadiant": {
+        "id": "TFT5_Item_GuinsoosRagebladeRadiant",
+        "name": "Guinsoo's Reckoning",
+        "image": {
+          "full": "TFT5_Item_GuinsoosRagebladeRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 96,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_HextechGunbladeRadiant": {
+        "id": "TFT5_Item_HextechGunbladeRadiant",
+        "name": "Hextech Lifeblade",
+        "image": {
+          "full": "TFT5_Item_HextechGunbladeRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 144,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_DeathbladeRadiant": {
+        "id": "TFT5_Item_DeathbladeRadiant",
+        "name": "Luminous Deathblade",
+        "image": {
+          "full": "TFT5_Item_DeathbladeRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 192,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_MorellonomiconRadiant": {
+        "id": "TFT5_Item_MorellonomiconRadiant",
+        "name": "More More-ellonomicon",
+        "image": {
+          "full": "TFT5_Item_MorellonomiconRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 240,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_QuicksilverRadiant": {
+        "id": "TFT5_Item_QuicksilverRadiant",
+        "name": "Quickestsilver",
+        "image": {
+          "full": "TFT5_Item_QuicksilverRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 288,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_RabadonsDeathcapRadiant": {
+        "id": "TFT5_Item_RabadonsDeathcapRadiant",
+        "name": "Rabadon's Ascended Deathcap",
+        "image": {
+          "full": "TFT5_Item_RabadonsDeathcapRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 336,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_RedemptionRadiant": {
+        "id": "TFT5_Item_RedemptionRadiant",
+        "name": "Absolution",
+        "image": {
+          "full": "TFT5_Item_RedemptionRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 384,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_RapidFirecannonRadiant": {
+        "id": "TFT5_Item_RapidFirecannonRadiant",
+        "name": "Crest of Cinders",
+        "image": {
+          "full": "TFT5_Item_RapidFirecannonRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 432,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_ThiefsGlovesRadiant": {
+        "id": "TFT5_Item_ThiefsGlovesRadiant",
+        "name": "Rascal's Gloves",
+        "image": {
+          "full": "TFT5_Item_ThiefsGlovesRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 0,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_BrambleVestRadiant": {
+        "id": "TFT5_Item_BrambleVestRadiant",
+        "name": "Rosethorn Vest",
+        "image": {
+          "full": "TFT5_Item_BrambleVestRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 48,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_RunaansHurricaneRadiant": {
+        "id": "TFT5_Item_RunaansHurricaneRadiant",
+        "name": "Runaan's Tempest",
+        "image": {
+          "full": "TFT5_Item_RunaansHurricaneRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 96,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_SpearOfShojinRadiant": {
+        "id": "TFT5_Item_SpearOfShojinRadiant",
+        "name": "Spear of Hirana",
+        "image": {
+          "full": "TFT5_Item_SpearOfShojinRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 144,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_StatikkShivRadiant": {
+        "id": "TFT5_Item_StatikkShivRadiant",
+        "name": "Statikk's Favor",
+        "image": {
+          "full": "TFT5_Item_StatikkShivRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 192,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_SunfireCapeRadiant": {
+        "id": "TFT5_Item_SunfireCapeRadiant",
+        "name": "Sunlight Cape",
+        "image": {
+          "full": "TFT5_Item_SunfireCapeRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 240,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_TitansResolveRadiant": {
+        "id": "TFT5_Item_TitansResolveRadiant",
+        "name": "Titan's Vow",
+        "image": {
+          "full": "TFT5_Item_TitansResolveRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 288,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_ArchangelsStaffRadiant": {
+        "id": "TFT5_Item_ArchangelsStaffRadiant",
+        "name": "Urf-Angel's Staff",
+        "image": {
+          "full": "TFT5_Item_ArchangelsStaffRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 336,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_WarmogsArmorRadiant": {
+        "id": "TFT5_Item_WarmogsArmorRadiant",
+        "name": "Warmog's Pride",
+        "image": {
+          "full": "TFT5_Item_WarmogsArmorRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 384,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_InfinityEdgeRadiant": {
+        "id": "TFT5_Item_InfinityEdgeRadiant",
+        "name": "Zenith Edge",
+        "image": {
+          "full": "TFT5_Item_InfinityEdgeRadiant.png",
+          "sprite": "tft-item2.png",
+          "group": "tft-item",
+          "x": 432,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_ZzRotPortalRadiant": {
+        "id": "TFT5_Item_ZzRotPortalRadiant",
+        "name": "Zz'Rot Portal",
+        "image": {
+          "full": "TFT5_Item_ZzRotPortalRadiant.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 0,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT7_ShimmerscaleItems/TFT7_Item_ShimmerscaleMogulsMail": {
+        "id": "TFT7_Item_ShimmerscaleMogulsMail",
+        "name": "Mogul's Mail",
+        "image": {
+          "full": "TFT7_Item_ShimmerscaleMogulsMail.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 240,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT7_ShimmerscaleItems/TFT7_Item_ShimmerscaleHeartOfGold": {
+        "id": "TFT7_Item_ShimmerscaleHeartOfGold",
+        "name": "Needlessly Big Gem",
+        "image": {
+          "full": "TFT7_Item_ShimmerscaleHeartOfGold.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 288,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT7_ShimmerscaleItems/TFT7_Item_ShimmerscaleGoldmancersStaff": {
+        "id": "TFT7_Item_ShimmerscaleGoldmancersStaff",
+        "name": "Goldmancer's Staff",
+        "image": {
+          "full": "TFT7_Item_ShimmerscaleGoldmancersStaff.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 336,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT9_Item_OrnnHullbreaker": {
+        "id": "TFT9_Item_OrnnHullbreaker",
+        "name": "Hullcrusher",
+        "image": {
+          "full": "TFT9_Item_OrnnHullbreaker.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 432,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT9_Item_OrnnTrickstersGlass": {
+        "id": "TFT9_Item_OrnnTrickstersGlass",
+        "name": "Trickster's Glass",
+        "image": {
+          "full": "TFT9_Item_OrnnTrickstersGlass.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 0,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT9_Item_OrnnDeathfireGrasp": {
+        "id": "TFT9_Item_OrnnDeathfireGrasp",
+        "name": "Deathfire Grasp",
+        "image": {
+          "full": "TFT9_Item_OrnnDeathfireGrasp.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 48,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT9_Item_OrnnHorizonFocus": {
+        "id": "TFT9_Item_OrnnHorizonFocus",
+        "name": "Sniper's Focus",
+        "image": {
+          "full": "TFT9_Item_OrnnHorizonFocus.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 96,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_SpectralGauntlet": {
+        "id": "TFT_Item_SpectralGauntlet",
+        "name": "Evenshroud",
+        "image": {
+          "full": "TFT_Item_SpectralGauntlet.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 240,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_SpectralGauntletRadiant": {
+        "id": "TFT5_Item_SpectralGauntletRadiant",
+        "name": "Equinox",
+        "image": {
+          "full": "TFT5_Item_SpectralGauntletRadiant.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 288,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_Crownguard": {
+        "id": "TFT_Item_Crownguard",
+        "name": "Crownguard",
+        "image": {
+          "full": "TFT_Item_Crownguard.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 336,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_CrownguardRadiant": {
+        "id": "TFT5_Item_CrownguardRadiant",
+        "name": "Royal Crownshield",
+        "image": {
+          "full": "TFT5_Item_CrownguardRadiant.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 384,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT7_ShimmerscaleItems/TFT7_Item_ShimmerscaleGoldmancersStaff_HR": {
+        "id": "TFT7_Item_ShimmerscaleGoldmancersStaff_HR",
+        "name": "Goldmancer's Staff",
+        "image": {
+          "full": "TFT7_Item_ShimmerscaleGoldmancersStaff_HR.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 432,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_NightHarvester": {
+        "id": "TFT_Item_NightHarvester",
+        "name": "Steadfast Heart",
+        "image": {
+          "full": "TFT_Item_NightHarvester.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 0,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT7_ShimmerscaleItems/TFT7_Item_ShimmerscaleHeartOfGold_HR": {
+        "id": "TFT7_Item_ShimmerscaleHeartOfGold_HR",
+        "name": "Needlessly Big Gem",
+        "image": {
+          "full": "TFT7_Item_ShimmerscaleHeartOfGold_HR.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 48,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_NightHarvesterRadiant": {
+        "id": "TFT5_Item_NightHarvesterRadiant",
+        "name": "Legacy of the Colossus",
+        "image": {
+          "full": "TFT5_Item_NightHarvesterRadiant.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 96,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT7_ShimmerscaleItems/TFT7_Item_ShimmerscaleMogulsMail_HR": {
+        "id": "TFT7_Item_ShimmerscaleMogulsMail_HR",
+        "name": "Mogul's Mail",
+        "image": {
+          "full": "TFT7_Item_ShimmerscaleMogulsMail_HR.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 144,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_SteraksGage": {
+        "id": "TFT_Item_SteraksGage",
+        "name": "Sterak's Gage",
+        "image": {
+          "full": "TFT_Item_SteraksGage.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 192,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_SteraksGageRadiant": {
+        "id": "TFT5_Item_SteraksGageRadiant",
+        "name": "Sterak's Megashield",
+        "image": {
+          "full": "TFT5_Item_SteraksGageRadiant.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 240,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_BlueBuff": {
+        "id": "TFT_Item_BlueBuff",
+        "name": "Blue Buff",
+        "image": {
+          "full": "TFT_Item_BlueBuff.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 288,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_BlueBuffRadiant": {
+        "id": "TFT5_Item_BlueBuffRadiant",
+        "name": "Blue Blessing",
+        "image": {
+          "full": "TFT5_Item_BlueBuffRadiant.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 336,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_AdaptiveHelm": {
+        "id": "TFT_Item_AdaptiveHelm",
+        "name": "Adaptive Helm",
+        "image": {
+          "full": "TFT_Item_AdaptiveHelm.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 384,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_AdaptiveHelmRadiant": {
+        "id": "TFT5_Item_AdaptiveHelmRadiant",
+        "name": "Jak'sho the Protean",
+        "image": {
+          "full": "TFT5_Item_AdaptiveHelmRadiant.png",
+          "sprite": "tft-item3.png",
+          "group": "tft-item",
+          "x": 432,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_Leviathan": {
+        "id": "TFT_Item_Leviathan",
+        "name": "Nashor's Tooth",
+        "image": {
+          "full": "TFT_Item_Leviathan.png",
+          "sprite": "tft-item4.png",
+          "group": "tft-item",
+          "x": 0,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "Set5_RadiantItems/TFT5_Item_LeviathanRadiant": {
+        "id": "TFT5_Item_LeviathanRadiant",
+        "name": "The Baron's Gift",
+        "image": {
+          "full": "TFT5_Item_LeviathanRadiant.png",
+          "sprite": "tft-item4.png",
+          "group": "tft-item",
+          "x": 48,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_AegisOfTheLegion": {
+        "id": "TFT_Item_AegisOfTheLegion",
+        "name": "Aegis of the Legion",
+        "image": {
+          "full": "TFT_Item_AegisOfTheLegion.png",
+          "sprite": "tft-item4.png",
+          "group": "tft-item",
+          "x": 96,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_RadiantVirtue": {
+        "id": "TFT_Item_RadiantVirtue",
+        "name": "Virtue of the Martyr",
+        "image": {
+          "full": "TFT_Item_RadiantVirtue.png",
+          "sprite": "tft-item4.png",
+          "group": "tft-item",
+          "x": 144,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_BansheesVeil": {
+        "id": "TFT_Item_BansheesVeil",
+        "name": "Banshee's Veil",
+        "image": {
+          "full": "TFT_Item_BansheesVeil.png",
+          "sprite": "tft-item4.png",
+          "group": "tft-item",
+          "x": 192,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT9_Item_OrnnPrototypeForge": {
+        "id": "TFT9_Item_OrnnPrototypeForge",
+        "name": "Blacksmith's Gloves",
+        "image": {
+          "full": "TFT9_Item_OrnnPrototypeForge.png",
+          "sprite": "tft-item4.png",
+          "group": "tft-item",
+          "x": 240,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT7_ShimmerscaleItems/TFT7_Item_ShimmerscaleDiamondHands": {
+        "id": "TFT7_Item_ShimmerscaleDiamondHands",
+        "name": "Diamond Hands",
+        "image": {
+          "full": "TFT7_Item_ShimmerscaleDiamondHands.png",
+          "sprite": "tft-item4.png",
+          "group": "tft-item",
+          "x": 432,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT7_ShimmerscaleItems/TFT7_Item_ShimmerscaleGamblersBlade_HR": {
+        "id": "TFT7_Item_ShimmerscaleGamblersBlade_HR",
+        "name": "Gambler's Blade",
+        "image": {
+          "full": "TFT7_Item_ShimmerscaleGamblersBlade_HR.png",
+          "sprite": "tft-item4.png",
+          "group": "tft-item",
+          "x": 0,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      }
+    }
+  }

@@ -1,0 +1,123 @@
+{
+    "type": "tft-item",
+    "version": "13.24.1",
+    "data": {
+      "TFT_Item_BFSword": {
+        "id": "TFT_Item_BFSword",
+        "name": "B.F. Sword",
+        "image": {
+          "full": "TFT_Item_BFSword.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 48,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_ChainVest": {
+        "id": "TFT_Item_ChainVest",
+        "name": "Chain Vest",
+        "image": {
+          "full": "TFT_Item_ChainVest.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 192,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_SparringGloves": {
+        "id": "TFT_Item_SparringGloves",
+        "name": "Sparring Gloves",
+        "image": {
+          "full": "TFT_Item_SparringGloves.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 240,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_GiantsBelt": {
+        "id": "TFT_Item_GiantsBelt",
+        "name": "Giant's Belt",
+        "image": {
+          "full": "TFT_Item_GiantsBelt.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 192,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_Spatula": {
+        "id": "TFT_Item_Spatula",
+        "name": "Spatula",
+        "image": {
+          "full": "TFT_Item_Spatula.png",
+          "sprite": "tft-item0.png",
+          "group": "tft-item",
+          "x": 336,
+          "y": 96,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_NeedlesslyLargeRod": {
+        "id": "TFT_Item_NeedlesslyLargeRod",
+        "name": "Needlessly Large Rod",
+        "image": {
+          "full": "TFT_Item_NeedlesslyLargeRod.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 0,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_NegatronCloak": {
+        "id": "TFT_Item_NegatronCloak",
+        "name": "Negatron Cloak",
+        "image": {
+          "full": "TFT_Item_NegatronCloak.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 48,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_RecurveBow": {
+        "id": "TFT_Item_RecurveBow",
+        "name": "Recurve Bow",
+        "image": {
+          "full": "TFT_Item_RecurveBow.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 240,
+          "y": 0,
+          "w": 48,
+          "h": 48
+        }
+      },
+      "TFT_Item_TearOfTheGoddess": {
+        "id": "TFT_Item_TearOfTheGoddess",
+        "name": "Tear of the Goddess",
+        "image": {
+          "full": "TFT_Item_TearOfTheGoddess.png",
+          "sprite": "tft-item1.png",
+          "group": "tft-item",
+          "x": 96,
+          "y": 48,
+          "w": 48,
+          "h": 48
+        }
+      }
+    }
+}
