@@ -1,0 +1,109 @@
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    max-height: 1vh;
+}
+
+#bg{
+    width: 70%;
+    height: 650px;
+    background-image: url("../images/Team_builder_images/set-11-bg.png");
+    background-repeat: no-repeat;
+    margin: auto;
+    text-align: center;
+}
+#bg a{
+    text-decoration: underline;
+    color: #ffffff;
+}
+
+p, a{
+    color: #ffffff;
+    font-size: 20px;
+}
+
+p#accedi{
+    margin-top:60px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+    position: relative;
+    top: 10%;
+}
+
+label{
+    display: flex;
+    margin: 20px 0 20px 35%;
+    justify-content: space-between;
+}
+.errore {
+    font-weight: bold;
+    color: red;
+  }
+  
+h4, h2, h1, label{
+    color: #ffffff;
+    font-family: "Encode Sans", sans-serif;
+    font-weight: 600;
+}
+
+input#USER, input#PW, input#MAIL{
+    border: 2px solid #173131;
+    font-family: "Encode Sans", sans-serif;
+    min-width: 300px;
+    margin: auto 26% auto 0;
+    height: 30px;
+}
+
+input#submit{
+    background: inherit;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Encode Sans", sans-serif;
+    margin-top: 10px;
+}
+
+
+div.info{   /*div#username, div#password, div#email, */
+    width: 100%;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+div#credenziali{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#form-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center ;
+    padding: 10px;
+}
+ul#credenziali{
+    align-items: start;
+    flex-direction: column;
+}
+
+ul#credenziali li{
+    color: #ffffff;
+}
+
+ul#credenziali li:hover{
+    padding: 0;
+    border-bottom: none;
+}
